@@ -1,2 +1,2 @@
-# imagechanger
-image generator
+# image generator
+
